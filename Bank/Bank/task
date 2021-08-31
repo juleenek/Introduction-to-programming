@@ -52,3 +52,4 @@ jeśli konto nie jest zablokowane: Account name: {Name}, balance: {Balance}
 jeśli konto jest zablokowane: Account name: {Name}, balance: {Balance}, blocked
 Saldo podawane jest w zaokrągleniu do 2. miejsc po przecinku.
 
+
