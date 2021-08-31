@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.exe
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.deps.json
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.dll
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\bin\Debug\netcoreapp3.1\StrukturaStos.pdb
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.dll
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.pdb
+\\Mac\Home\Desktop\Code\WSEI\StrukturaStos\StrukturaStos\StrukturaStos\obj\Debug\netcoreapp3.1\StrukturaStos.genruntimeconfig.cache

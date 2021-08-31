@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.exe
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.dll
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\GraConsoleApp.pdb
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.dll
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.pdb
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.genruntimeconfig.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\LogikaGry.dll
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\bin\Debug\netcoreapp3.1\LogikaGry.pdb
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\GraZgadywanka\obj\Debug\netcoreapp3.1\GraConsoleApp.csproj.CopyComplete

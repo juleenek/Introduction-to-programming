@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.exe
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\bin\Debug\netcoreapp3.1\PhoneClass.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\PhoneClass\PhoneClass\obj\Debug\netcoreapp3.1\PhoneClass.genruntimeconfig.cache

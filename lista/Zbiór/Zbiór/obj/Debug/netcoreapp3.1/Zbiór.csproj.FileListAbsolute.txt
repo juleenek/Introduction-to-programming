@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.exe
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.deps.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\bin\Debug\netcoreapp3.1\Zbiór.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\Zbiór\Zbiór\obj\Debug\netcoreapp3.1\Zbiór.genruntimeconfig.cache

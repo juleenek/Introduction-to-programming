@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.exe
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\bin\Debug\netcoreapp3.1\PersonChild.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\person\PersonChild\PersonChild\obj\Debug\netcoreapp3.1\PersonChild.genruntimeconfig.cache

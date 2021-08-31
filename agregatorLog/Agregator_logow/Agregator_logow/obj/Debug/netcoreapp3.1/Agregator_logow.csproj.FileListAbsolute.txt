@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.exe
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.deps.json
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.dll
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\bin\Debug\netcoreapp3.1\Agregator_logow.pdb
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.dll
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.pdb
+\\Mac\Home\Desktop\Code\WSEI\agregatorLog\Agregator_logow\Agregator_logow\obj\Debug\netcoreapp3.1\Agregator_logow.genruntimeconfig.cache

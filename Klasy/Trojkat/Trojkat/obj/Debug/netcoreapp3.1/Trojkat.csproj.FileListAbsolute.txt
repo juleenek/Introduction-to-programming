@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.exe
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\bin\Debug\netcoreapp3.1\Trojkat.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Trojkat\Trojkat\obj\Debug\netcoreapp3.1\Trojkat.genruntimeconfig.cache

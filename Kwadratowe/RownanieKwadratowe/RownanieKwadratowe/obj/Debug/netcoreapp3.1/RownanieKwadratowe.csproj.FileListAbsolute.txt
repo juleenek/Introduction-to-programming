@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.exe
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.dll
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\bin\Debug\netcoreapp3.1\RownanieKwadratowe.pdb
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.dll
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.pdb
+\\Mac\Home\Desktop\Code\WSEI\Kwadratowe\RownanieKwadratowe\RownanieKwadratowe\obj\Debug\netcoreapp3.1\RownanieKwadratowe.genruntimeconfig.cache

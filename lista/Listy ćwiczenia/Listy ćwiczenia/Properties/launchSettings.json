@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Zadanie 1. Lista": {
+      "commandName": "Project"
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

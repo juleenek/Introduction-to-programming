@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GraConsoleApp/1.0.0": {
+        "dependencies": {
+          "LogikaGry": "1.0.0"
+        },
+        "runtime": {
+          "GraConsoleApp.dll": {}
+        }
+      },
+      "LogikaGry/1.0.0": {
+        "runtime": {
+          "LogikaGry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogikaGry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.exe
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.deps.json
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.dll
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\bin\Debug\netcoreapp3.1\first_project.pdb
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.dll
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.pdb
+\\Mac\Home\Desktop\Code\WSEI\first_project\first_project\obj\Debug\netcoreapp3.1\first_project.genruntimeconfig.cache

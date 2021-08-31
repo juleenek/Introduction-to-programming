@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.exe
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.dll
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\bin\Debug\netcoreapp3.1\x.pdb
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.dll
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.pdb
+\\Mac\Home\Desktop\Code\WSEI\Wzorki\wzorki X\x\x\obj\Debug\netcoreapp3.1\x.genruntimeconfig.cache

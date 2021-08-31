@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PersonChild",
+    "\\PersonChild\\PersonChild"
+  ],
+  "SelectedNode": "\\PersonChild\\PersonChild\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

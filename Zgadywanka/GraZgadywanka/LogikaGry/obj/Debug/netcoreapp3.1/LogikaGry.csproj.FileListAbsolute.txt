@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\bin\Debug\netcoreapp3.1\LogikaGry.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\bin\Debug\netcoreapp3.1\LogikaGry.dll
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\bin\Debug\netcoreapp3.1\LogikaGry.pdb
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.dll
+\\Mac\Home\Desktop\Code\WSEI\Zgadywanka\GraZgadywanka\LogikaGry\obj\Debug\netcoreapp3.1\LogikaGry.pdb

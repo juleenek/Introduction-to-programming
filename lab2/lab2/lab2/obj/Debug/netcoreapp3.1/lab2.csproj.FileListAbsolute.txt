@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+\\Mac\Home\Desktop\Code\WSEI\lab2\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache

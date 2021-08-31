@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.exe
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.deps.json
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\bin\Debug\netcoreapp3.1\słownik.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\słownik\słownik\obj\Debug\netcoreapp3.1\słownik.genruntimeconfig.cache

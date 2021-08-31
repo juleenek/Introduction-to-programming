@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.exe
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.dll
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\bin\Debug\netcoreapp3.1\Bank2.pdb
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.dll
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.pdb
+\\Mac\Home\Desktop\Code\WSEI\Bank2\Bank2\Bank2\obj\Debug\netcoreapp3.1\Bank2.genruntimeconfig.cache

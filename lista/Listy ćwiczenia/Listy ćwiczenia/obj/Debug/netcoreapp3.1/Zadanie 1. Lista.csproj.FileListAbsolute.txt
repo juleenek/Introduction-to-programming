@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.exe
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.deps.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\bin\Debug\netcoreapp3.1\Zadanie 1. Lista.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.dll
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.pdb
+\\Mac\Home\Desktop\Code\WSEI\lista\Listy ćwiczenia\Listy ćwiczenia\obj\Debug\netcoreapp3.1\Zadanie 1. Lista.genruntimeconfig.cache

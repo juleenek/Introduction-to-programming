@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.exe
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.deps.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\bin\Debug\netcoreapp3.1\Czas24h.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.dll
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.pdb
+\\Mac\Home\Desktop\Code\WSEI\Klasy\Czas24h\Czas24h\obj\Debug\netcoreapp3.1\Czas24h.genruntimeconfig.cache

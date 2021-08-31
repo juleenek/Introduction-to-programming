@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.exe
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.deps.json
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.runtimeconfig.json
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.dll
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\bin\Debug\netcoreapp3.1\LED.pdb
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.AssemblyInfo.cs
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.dll
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.pdb
+\\Mac\Home\Desktop\Code\WSEI\LED\LED\LED\obj\Debug\netcoreapp3.1\LED.genruntimeconfig.cache
